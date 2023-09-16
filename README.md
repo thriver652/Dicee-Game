@@ -1,6 +1,6 @@
 # DiceGame
 
-Live Demo : 
+Live Demo : https://thriver652.github.io/Dicee-Game/
 
 DiceGame is a simple web application built using HTML, CSS, and JavaScript that allows two players to roll dice and compete to reach the highest score. It's a fun and engaging game that's perfect for some friendly competition.
 
