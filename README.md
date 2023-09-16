@@ -25,7 +25,7 @@ DiceGame is a simple web application built using HTML, CSS, and JavaScript that 
 1. Clone the repository to your local machine:
 
    ```bash
-  https://github.com/thriver652/Dicee-Game
+   https://github.com/thriver652/Dicee-Game
    ```
 
 2. Open the project folder in your preferred code editor.
